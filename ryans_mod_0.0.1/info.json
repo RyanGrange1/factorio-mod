@@ -1,0 +1,10 @@
+{
+	"name":"ryans_mod",
+	"author":"Destruction7F3",
+	"version":"0.0.1",
+	"title":"Ryans_Mod",
+	"homepage":"",
+	"description":"Much Mod",
+	"dependencies": ["base >= 0.15.00"],
+	"factorio_version": "0.15"
+}
