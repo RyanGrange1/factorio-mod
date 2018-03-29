@@ -7,7 +7,7 @@ data:extend({
     ingredients = 
 	{
 	   {"copper-plate", 15},
-	   {"wall", 1}
+	   {"stone-wall", 1}
 	},
     result = "copper-wall",
     requester_paste_multiplier = 10
