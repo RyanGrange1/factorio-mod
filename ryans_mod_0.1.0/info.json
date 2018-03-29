@@ -1,0 +1,10 @@
+{
+	"name":"ryans_mod",
+	"author":"Destruction7F3",
+	"version":"0.1.0",
+	"title":"Copper Walls",
+	"homepage":"https://mods.factorio.com/mod/ryans_mod",
+	"description":"Adds Copper Walls to the game. Included in the Use More Copper mod which will be replacing this mod.",
+	"dependencies": ["base >= 0.16.00"],
+	"factorio_version": "0.16"
+}
