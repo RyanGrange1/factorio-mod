@@ -4,7 +4,7 @@ data:extend(
     type = "wall",
     name = "copper-wall",
     icon = "__ryans_mod__/graphics/icons/copper-wall.png",
-    
+    icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
     collision_box = {{-0.29, -0.29}, {0.29, 0.29}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
@@ -324,9 +324,9 @@ data:extend(
         green = {-0.28125, -0.84375}
       }
     },
-    circuit_wire_max_distance = 7.5,
     circuit_wire_connection_point = circuit_connector_definitions["gate"].points,
     circuit_connector_sprites = circuit_connector_definitions["gate"].sprites,
+    circuit_wire_max_distance = 7.5,
     default_output_signal = {type = "virtual", name = "signal-G"}
   },
 
