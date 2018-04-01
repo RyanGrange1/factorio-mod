@@ -334,7 +334,7 @@ data:extend(
     type = "gate",
     name = "gate",
     icon = "__base__/graphics/icons/gate.png",
-    
+    icon_size = 32,
     flags = {"placeable-neutral","placeable-player", "player-creation"},
     fast_replaceable_group = "wall",
     minable = {hardness = 0.2, mining_time = 0.5, result = "gate"},
