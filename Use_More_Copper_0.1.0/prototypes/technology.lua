@@ -3,8 +3,8 @@ data:extend({
 {
     type = "technology",
     name = "copper-walls",
-    icon = "__ryans_mod__/graphics/icons/copper-wall.png",
-	icon_size = 128,
+    icon = "__Use_More_Copper__/graphics/icons/copper-wall.png",
+	icon_size = 32,
 	prerequisites = {"stone-walls", "concrete", "military-2"},
     effects =
     {

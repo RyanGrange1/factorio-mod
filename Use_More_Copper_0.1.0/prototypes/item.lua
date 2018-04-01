@@ -4,7 +4,7 @@ data:extend(
  
 		type = "item",
 		name = "copper-wall",
-		icon = "__ryans_mod__/graphics/icons/copper-wall.png",
+		icon = "__Use_More_Copper__/graphics/icons/copper-wall.png",
 		icon_size = 32,
 		flags = {"goes-to-main-inventory"},
 		subgroup = "defensive-structure",
