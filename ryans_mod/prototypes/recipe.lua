@@ -6,7 +6,7 @@ data:extend({
     enabled = false,
     ingredients = 
 	{
-	   {"copper-plate", 15},
+	   {"copper-plate", 25},
 	   {"stone-wall", 1}
 	},
     result = "copper-wall",
