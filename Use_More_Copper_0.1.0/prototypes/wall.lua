@@ -32,7 +32,7 @@ data:extend(
         layers = 
         {
           {
-            filename = "ryans_mod/graphics/copper-wall/wall-single.png",
+            filename = "__ryans_mod__/graphics/copper-wall/wall-single.png",
             priority = "extra-high",
             width = 22,
             height = 42,
@@ -74,7 +74,7 @@ data:extend(
           layers =
           {
             {
-              filename = "__ryans_mod__/graphics/bcopper-wall/wall-straight-vertical-2.png",
+              filename = "__ryans_mod__/graphics/copper-wall/wall-straight-vertical-2.png",
               priority = "extra-high",
               width = 22,
               height = 42,
@@ -210,7 +210,7 @@ data:extend(
             filename = "__ryans_mod__/graphics/copper-wall/wall-corner-left-down-shadow.png",
             priority = "extra-high",
             width = 53,
-            height = 60,
+            height = 61,
             shift = {0.328125, 0.640625},
             draw_as_shadow = true
           }

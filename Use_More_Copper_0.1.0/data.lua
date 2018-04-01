@@ -9,7 +9,7 @@ data:extend(
 	{ --Item group in the crafting menu.
 	type = "item-group",
 	name = "ryans-modded-content",
-	icon = "__Ryans_Mod__/graphics/icons/ryans-mod-tab.png",
+	icon = "__ryans_mod__/graphics/icons/ryans-mod-tab.png",
 	icon_size = 64,
 	order = "g",
 	},
