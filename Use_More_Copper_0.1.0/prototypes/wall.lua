@@ -4,7 +4,7 @@ data:extend(
     type = "wall",
     name = "copper-wall",
     icon = "__ryans_mod__/graphics/icons/copper-wall.png",
-	icon_size = 32,
+    icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
     collision_box = {{-0.29, -0.29}, {0.29, 0.29}},
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
@@ -15,7 +15,7 @@ data:extend(
     corpse = "copper-wall-remnants",
     repair_sound = { filename = "__base__/sound/manual-repair-simple.ogg" },
     mined_sound = { filename = "__base__/sound/deconstruct-bricks.ogg" },
-	
+    
     connected_gate_visualization =
     {
       filename = "__core__/graphics/arrows/underground-lines.png",
@@ -657,7 +657,7 @@ data:extend(
     type = "corpse",
     name = "copper-wall-remnants",
     icon = "__ryans_mod__/graphics/icons/copper-wall-remnants.png",
-	icon_size = 32,
+    icon_size = 32,
     flags = {"placeable-neutral", "not-on-map"},
     subgroup="remnants",
     order="d[remnants]-c[wall]",
