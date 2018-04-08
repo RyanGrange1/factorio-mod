@@ -74,7 +74,7 @@ data:extend(
           layers =
           {
             {
-              filename = "__ryans_mod__/graphics/bcopper-wall/wall-straight-vertical-2.png",
+              filename = "__ryans_mod__/graphics/copper-wall/wall-straight-vertical-2.png",
               priority = "extra-high",
               width = 22,
               height = 42,
